@@ -1,0 +1,21 @@
+/* Properties which are inherited by the child element*/
+body{
+  
+  text-align: center;
+  font-size: 2rem;  
+  color: pink;
+  font-weight: 1000;
+  letter-spacing: 2px;
+
+}
+
+
+/* Properties which are not inherited by the child element */
+
+body{
+  border: 2px solid red;
+  padding: 20px;
+  margin: 20px;
+  width: 500px;
+  
+  }
